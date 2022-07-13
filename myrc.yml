@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: myapp-container
-          image: kr15hna/myjavajenkinsimage07may22
+          image: kr15hna/myjavajenkinsimage07may22:1
           ports: 
             - containerPort: 80
